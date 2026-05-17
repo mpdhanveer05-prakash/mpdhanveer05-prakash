@@ -1,46 +1,45 @@
 <!--
 ══════════════════════════════════════════════════════════════════════════════
-  REPLACEMENT BLOCKS for github.com/mpdhanveer05-prakash/mpdhanveer05-prakash
+  CYBERPUNK HERO — drop-in replacement for your current HERO BANNER section
   ─────────────────────────────────────────────────────────────────────────────
-  • BLOCK A → replaces your current HERO BANNER section
-  • BLOCK B → replaces your current FUTURISTIC FOOTER section
-  Everything else in your README stays exactly as-is.
+  SETUP (one-time):
+    1. Commit the file `hero-cyberpunk.svg` to your profile repo at the root:
+       github.com/mpdhanveer05-prakash/mpdhanveer05-prakash/hero-cyberpunk.svg
+    2. Paste the block below where your old hero used to be.
+
+  That's it. The <img> tag below loads the SVG directly from the repo's raw URL.
 ══════════════════════════════════════════════════════════════════════════════
 -->
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░  BLOCK A — HERO  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ╭──────────────────────  WAVE CAPSULE BANNER  ─────────────────────╮ -->
+<!-- ╭──────────────────────  CYBERPUNK HERO BANNER  ─────────────────────╮ -->
 <a href="https://github.com/mpdhanveer05-prakash">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E1B4B,60:6E40C9,100:06B6D4&height=300&section=header&text=M.P.%20DHANVEER%20PRAKASH&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20%20FULL%20STACK%20%20%E2%80%A2%20%20DEVOPS%20%20%E2%80%A2%20%20AI%20AUTOMATION%20%20%E2%80%A2%20%20CLOUD%20ARCHITECT%20%20%E2%9A%A1&descAlignY=58&descSize=16&animation=twinkling&stroke=00E5FF&strokeWidth=1" alt="hero banner" />
+  <img src="https://raw.githubusercontent.com/mpdhanveer05-prakash/mpdhanveer05-prakash/main/hero-cyberpunk.svg" alt="M.P. Dhanveer Prakash — cyberpunk hero" width="100%" />
 </a>
 
 <!-- ╭─────────────────────  GLITCH SUBTITLE STRIP  ────────────────────╮ -->
 <a href="https://github.com/mpdhanveer05-prakash">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=%3E_+initializing+kernel...+access+granted;%3E_+architect+%2F%2F+ai+engineer+%2F%2F+cloud+native;%3E_+shipping+production+systems+%40+the+edge+of+ai;%3E_+mcp+servers+%E2%80%A2+rag+pipelines+%E2%80%A2+agentic+workflows;%3E_+%22build+for+the+user.+ship+for+production.%22" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&height=55&lines=%3E_+initializing+kernel...+access+granted;%3E_+architect+%2F%2F+ai+engineer+%2F%2F+cloud+native;%3E_+shipping+production+systems+%40+the+edge+of+ai;%3E_+mcp+servers+%E2%80%A2+rag+pipelines+%E2%80%A2+agentic+workflows;%3E_+%22build+for+the+user.+ship+for+production.%22" alt="typing intro" />
 </a>
 
 <br/>
 
 <!-- ╭───────────────────────  HUD STATUS BADGES  ──────────────────────╮ -->
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge&labelColor=0F172A&logo=statuspage&logoColor=22c55e" alt="status" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-8B5CF6?style=for-the-badge&labelColor=0F172A&logo=googlemaps&logoColor=8B5CF6" alt="location" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-F59E0B?style=for-the-badge&labelColor=0F172A&logo=rocket&logoColor=F59E0B" alt="mode" />
-  <img src="https://img.shields.io/badge/UPLINK-SECURE-06B6D4?style=for-the-badge&labelColor=0F172A&logo=protondb&logoColor=06B6D4" alt="uplink" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge&labelColor=05010F&logo=statuspage&logoColor=22c55e" alt="status" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-B026FF?style=for-the-badge&labelColor=05010F&logo=googlemaps&logoColor=B026FF" alt="location" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-F59E0B?style=for-the-badge&labelColor=05010F&logo=rocket&logoColor=F59E0B" alt="mode" />
+  <img src="https://img.shields.io/badge/UPLINK-SECURE-00F5FF?style=for-the-badge&labelColor=05010F&logo=protondb&logoColor=00F5FF" alt="uplink" />
+  <img src="https://img.shields.io/badge/NEURAL_LINK-ACTIVE-FF2A6D?style=for-the-badge&labelColor=05010F&logo=brainly&logoColor=FF2A6D" alt="neural link" />
 </p>
 
 <!-- ╭───────────────────────  PROFILE METRICS  ────────────────────────╮ -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mpdhanveer05-prakash&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/mpdhanveer05-prakash?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0F172A" alt="followers" />
-  <img src="https://img.shields.io/github/stars/mpdhanveer05-prakash?label=STARS&style=for-the-badge&color=F59E0B&labelColor=0F172A" alt="stars" />
-  <img src="https://img.shields.io/badge/OPEN_TO-COLLAB-EC4899?style=for-the-badge&labelColor=0F172A&logo=handshake&logoColor=EC4899" alt="open to collab" />
+  <img src="https://komarev.com/ghpvc/?username=mpdhanveer05-prakash&label=PROFILE+VIEWS&color=B026FF&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/mpdhanveer05-prakash?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=05010F" alt="followers" />
+  <img src="https://img.shields.io/github/stars/mpdhanveer05-prakash?label=STARS&style=for-the-badge&color=F59E0B&labelColor=05010F" alt="stars" />
+  <img src="https://img.shields.io/badge/OPEN_TO-COLLAB-FF2A6D?style=for-the-badge&labelColor=05010F&logo=handshake&logoColor=FF2A6D" alt="open to collab" />
 </p>
 
 <!-- ╭──────────────────────  PRIMARY SOCIAL DECK  ─────────────────────╮ -->
@@ -64,6 +63,11 @@
     <img src="https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
   </a>
 </p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png" width="100%" alt="separator" />
+
 
 <!-- ╭───────────────────────  TERMINAL READOUT  ───────────────────────╮ -->
 
