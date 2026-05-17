@@ -15,7 +15,7 @@
 
 <!-- ╭──────────────────────  CYBERPUNK HERO BANNER  ─────────────────────╮ -->
 <a href="https://github.com/mpdhanveer05-prakash">
-  <img src="https://raw.githubusercontent.com/mpdhanveer05-prakash/mpdhanveer05-prakash/main/hero-cyberpunk.svg" alt="M.P. Dhanveer Prakash — cyberpunk hero" width="100%" />
+  <img src="https://raw.githubusercontent.com/mpdhanveer05-prakash/mpdhanveer05-prakash/hero-cyberpunk.svg" alt="M.P. Dhanveer Prakash — cyberpunk hero" width="100%" />
 </a>
 
 <!-- ╭─────────────────────  GLITCH SUBTITLE STRIP  ────────────────────╮ -->
