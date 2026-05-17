@@ -1,33 +1,49 @@
 <!--
 ══════════════════════════════════════════════════════════════════════════════
-  M.P. DHANVEER PRAKASH — GITHUB PROFILE README
-  ─────────────────────────────────────────────
-  GitHub: mpdhanveer05-prakash
-  Place this file at: github.com/mpdhanveer05-prakash/mpdhanveer05-prakash/README.md
-  ══════════════════════════════════════════════════════════════════════════════
+  REPLACEMENT BLOCKS for github.com/mpdhanveer05-prakash/mpdhanveer05-prakash
+  ─────────────────────────────────────────────────────────────────────────────
+  • BLOCK A → replaces your current HERO BANNER section
+  • BLOCK B → replaces your current FUTURISTIC FOOTER section
+  Everything else in your README stays exactly as-is.
+══════════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- ═══════════════════════════ HERO BANNER ═══════════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░  BLOCK A — HERO  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
+<!-- ╭──────────────────────  WAVE CAPSULE BANNER  ─────────────────────╮ -->
 <a href="https://github.com/mpdhanveer05-prakash">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=280&section=header&text=M.P.%20DHANVEER%20PRAKASH&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Cloud&descAlignY=62&descSize=20&animation=twinkling" alt="hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E1B4B,60:6E40C9,100:06B6D4&height=300&section=header&text=M.P.%20DHANVEER%20PRAKASH&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20%20FULL%20STACK%20%20%E2%80%A2%20%20DEVOPS%20%20%E2%80%A2%20%20AI%20AUTOMATION%20%20%E2%80%A2%20%20CLOUD%20ARCHITECT%20%20%E2%9A%A1&descAlignY=58&descSize=16&animation=twinkling&stroke=00E5FF&strokeWidth=1" alt="hero banner" />
 </a>
 
+<!-- ╭─────────────────────  GLITCH SUBTITLE STRIP  ────────────────────╮ -->
 <a href="https://github.com/mpdhanveer05-prakash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=850&height=60&lines=>>>+Architecting+Software+at+the+Edge+of+AI+<<<;>>>+Full-Stack+Engineer+%E2%9A%A1+DevOps+%E2%9A%A1+AI+Automation+<<<;>>>+Shipping+Production+Systems+%26+Intelligent+Agents+<<<;>>>+Building+the+Future+with+Code+%26+Caffeine+<<<" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=55&lines=%3E_+initializing+kernel...+access+granted;%3E_+architect+%2F%2F+ai+engineer+%2F%2F+cloud+native;%3E_+shipping+production+systems+%40+the+edge+of+ai;%3E_+mcp+servers+%E2%80%A2+rag+pipelines+%E2%80%A2+agentic+workflows;%3E_+%22build+for+the+user.+ship+for+production.%22" alt="typing intro" />
 </a>
 
 <br/>
 
+<!-- ╭───────────────────────  HUD STATUS BADGES  ──────────────────────╮ -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-22c55e?style=for-the-badge&labelColor=0F172A&logo=statuspage&logoColor=22c55e" alt="status" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-8B5CF6?style=for-the-badge&labelColor=0F172A&logo=googlemaps&logoColor=8B5CF6" alt="location" />
+  <img src="https://img.shields.io/badge/MODE-BUILDING-F59E0B?style=for-the-badge&labelColor=0F172A&logo=rocket&logoColor=F59E0B" alt="mode" />
+  <img src="https://img.shields.io/badge/UPLINK-SECURE-06B6D4?style=for-the-badge&labelColor=0F172A&logo=protondb&logoColor=06B6D4" alt="uplink" />
+</p>
+
+<!-- ╭───────────────────────  PROFILE METRICS  ────────────────────────╮ -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=mpdhanveer05-prakash&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/github/followers/mpdhanveer05-prakash?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0F172A" alt="followers" />
   <img src="https://img.shields.io/github/stars/mpdhanveer05-prakash?label=STARS&style=for-the-badge&color=F59E0B&labelColor=0F172A" alt="stars" />
+  <img src="https://img.shields.io/badge/OPEN_TO-COLLAB-EC4899?style=for-the-badge&labelColor=0F172A&logo=handshake&logoColor=EC4899" alt="open to collab" />
 </p>
 
-<!-- ─── PRIMARY SOCIAL CLUSTER ─── -->
+<!-- ╭──────────────────────  PRIMARY SOCIAL DECK  ─────────────────────╮ -->
 <p>
   <a href="https://www.linkedin.com/in/mpdhanveerprakash/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -48,6 +64,20 @@
     <img src="https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
   </a>
 </p>
+
+<!-- ╭───────────────────────  TERMINAL READOUT  ───────────────────────╮ -->
+
+```ansi
+┌─[ dhanveer@mainframe ~ ]─────────────────────────────────────────────┐
+│                                                                      │
+│   > IDENTITY .... M.P. Dhanveer Prakash                              │
+│   > ROLE ........ Software Engineer × AI Automation × Cloud          │
+│   > UPLINK ...... github.com/mpdhanveer05-prakash         [ ACTIVE ] │
+│   > THEME ....... tokyo · cyberpunk · production-grade               │
+│   > MISSION ..... shipping intelligent systems @ the edge of AI      │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
