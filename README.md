@@ -523,20 +523,94 @@ $ whoami
 
 ---
 
-<!-- ═══════════════════════════ FUTURISTIC FOOTER ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░  BLOCK B — FOOTER  ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png" width="100%" alt="separator" />
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/> &nbsp; Let's Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&height=40&lines=>>>+END_OF_TRANSMISSION+<<<;>>>+SYSTEM_GOING_OFFLINE+<<<;>>>+THANKS_FOR_VISITING+<<<" alt="footer typing" />
+### `> establishing_secure_channel...`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=140&section=footer&text=>>>%20SYSTEM_STANDBY%20<<<&fontSize=26&fontColor=ffffff&fontAlignY=50&desc=Thanks%20for%20visiting%20my%20digital%20workspace&descAlignY=70&descSize=16&animation=twinkling" alt="futuristic footer" />
+<!-- ╭──────────────────────  CONNECT GRID — ROW 1  ────────────────────╮ -->
+<a href="https://www.linkedin.com/in/mpdhanveerprakash/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://x.com/aiwithdhanveer" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
+</a>
+&nbsp;
+<a href="https://www.threads.com/@aiwithdhanveer" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-101010?style=for-the-badge&logo=threads&logoColor=white&labelColor=101010" alt="Threads" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/aiwithdhanveer/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+</a>
+
+<br/>
+
+<!-- ╭──────────────────────  CONNECT GRID — ROW 2  ────────────────────╮ -->
+<a href="https://github.com/mpdhanveer05-prakash" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+</a>
+&nbsp;
+<a href="mailto:aiwithshanveer@gmail.com">
+  <img src="https://img.shields.io/badge/Work_Email-34A853?style=for-the-badge&logo=gmail&logoColor=white&labelColor=34A853" alt="Work Email" />
+</a>
+&nbsp;
+<a href="mailto:mpdhanveer05@gmail.com">
+  <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Personal Email" />
+</a>
 
 <br/><br/>
-<sub>⚡ <i>Crafted with caffeine, curiosity, and a healthy obsession with shipping.</i> ⚡</sub>
+
+<!-- ╭──────────────────────  SYSTEM SHUTDOWN HUD  ─────────────────────╮ -->
+
+```ansi
+┌─[ system://mainframe ]───────────────────────────────────────────────┐
+│                                                                      │
+│   > thanks_for_visiting.exe                              [ EXECUTED ]│
+│   > drop_a_star.sh                                       [ OPTIONAL ]│
+│   > connect_across_the_internet.lnk                      [ ENABLED  ]│
+│   > collaborations.inbox                                 [ OPEN     ]│
+│                                                                      │
+│   > exit code 0 // see you on the next commit.                       │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
-<sub><b>M.P. Dhanveer Prakash</b> • Software Engineer • AI Automation • Cloud</sub>
+
+<!-- ╭────────────────────  CLOSING TYPING SEQUENCE  ───────────────────╮ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=%3E_+session+terminated+successfully;%3E_+powering+down+the+mainframe...;%3E_+see+you+on+the+next+deploy;%3E_+%2F%2F+keep+shipping" alt="closing typing" />
+
+<br/>
+
+<!-- ╭─────────────────────  COUNTER + STAR BAR  ───────────────────────╮ -->
+<img src="https://komarev.com/ghpvc/?username=mpdhanveer05-prakash&label=Profile+Visitors&color=8B5CF6&style=for-the-badge" alt="visitor counter" />
+&nbsp;
+<a href="https://github.com/mpdhanveer05-prakash?tab=repositories">
+  <img src="https://img.shields.io/badge/%E2%AD%90_Star_a_Repo-F59E0B?style=for-the-badge&labelColor=0F172A&logo=github&logoColor=F59E0B" alt="star a repo" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mpdhanveerprakash/">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D_Hire_/_Collab-EC4899?style=for-the-badge&labelColor=0F172A" alt="hire me" />
+</a>
+
+<br/><br/>
+
+<!-- ╭─────────────────────  CYLINDER CAPSULE END  ─────────────────────╮ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:6E40C9,80:1E1B4B,100:0F172A&height=180&section=footer&text=%3E%3E%3E%20END_OF_TRANSMISSION%20%3C%3C%3C&fontSize=28&fontColor=ffffff&fontAlignY=58&desc=crafted%20with%20caffeine%2C%20curiosity%2C%20and%20a%20healthy%20obsession%20with%20shipping&descAlignY=82&descSize=14&animation=twinkling&reversal=true&stroke=00E5FF&strokeWidth=1" alt="futuristic footer" />
+
+<br/>
+
+<sub>⚡ <b>M.P. Dhanveer Prakash</b> &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; AI Automation &nbsp;·&nbsp; Cloud Architect ⚡</sub>
 
 </div>
