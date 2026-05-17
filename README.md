@@ -1,13 +1,9 @@
 <!--
 ══════════════════════════════════════════════════════════════════════════════
-  ELITE-TIER GITHUB PROFILE README
-  ─────────────────────────────────
-  Customization Guide:
-    1. Replace `YOUR_GITHUB_USERNAME` everywhere with your GitHub handle
-    2. Replace `YOUR_NAME` with your display name
-    3. Replace social links (search "// SOCIAL:" comments)
-    4. Optional: replace WakaTime / Spotify / Holopin placeholders
-    5. Drop this file in a repo named exactly the same as your GitHub username
+  M.P. DHANVEER PRAKASH — GITHUB PROFILE README
+  ─────────────────────────────────────────────
+  GitHub: mpdhanveer05-prakash
+  Place this file at: github.com/mpdhanveer05-prakash/mpdhanveer05-prakash/README.md
   ══════════════════════════════════════════════════════════════════════════════
 -->
 
@@ -15,56 +11,46 @@
 
 <div align="center">
 
-<!-- Animated gradient hero. Replace ?lines= with your tagline lines. -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=YOUR%20NAME&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" alt="hero banner" />
+<a href="https://github.com/mpdhanveer05-prakash">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=M.P.%20DHANVEER%20PRAKASH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" alt="hero banner" />
 </a>
 
-<!-- Animated typing intro -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/mpdhanveer05-prakash">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&width=820&height=55&lines=Architecting+Software+at+the+Edge+of+AI;Full-Stack+Engineer+%E2%9A%A1+DevOps+%E2%9A%A1+AI+Automation;Shipping+Production+Systems+%26+Intelligent+Agents;Cloud-Native+%E2%80%A2+Type-Safe+%E2%80%A2+AI-First" alt="typing intro" />
 </a>
 
 <br/>
 
-<!-- Profile views + followers + stars badge cluster -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0F172A" alt="followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&color=F59E0B&labelColor=0F172A" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=mpdhanveer05-prakash&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/mpdhanveer05-prakash?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0F172A" alt="followers" />
+  <img src="https://img.shields.io/github/stars/mpdhanveer05-prakash?label=STARS&style=for-the-badge&color=F59E0B&labelColor=0F172A" alt="stars" />
 </p>
 
-<!-- ─── PRIMARY SOCIAL CLUSTER (also repeated near footer) ─── -->
+<!-- ─── PRIMARY SOCIAL CLUSTER ─── -->
 <p>
-  <!-- SOCIAL: LinkedIn -->
   <a href="https://www.linkedin.com/in/mpdhanveerprakash/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- SOCIAL: X / Twitter -->
   <a href="https://x.com/aiwithdhanveer" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <!-- SOCIAL: Threads -->
   <a href="https://www.threads.com/@aiwithdhanveer" target="_blank">
     <img src="https://img.shields.io/badge/Threads-101010?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <!-- SOCIAL: Instagram -->
   <a href="https://www.instagram.com/aiwithdhanveer/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- SOCIAL: Portfolio -->
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="mailto:aiwithshanveer@gmail.com">
+    <img src="https://img.shields.io/badge/Work_Email-34A853?style=for-the-badge&logo=gmail&logoColor=white" alt="Work Email" />
   </a>
-  <!-- SOCIAL: Email -->
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:mpdhanveer05@gmail.com">
+    <img src="https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
   </a>
 </p>
 
 </div>
 
-<!-- aesthetic separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png" width="100%" alt="separator" />
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
@@ -72,8 +58,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp; About Me
 
 ```ts
-const dev = {
-  name:        "YOUR_NAME",
+const dhanveer = {
+  name:        "M.P. Dhanveer Prakash",
   role:        "Software Engineer • AI Automation • Cloud Architect",
   focus:       ["Production-grade AI systems", "Cloud-native apps", "Developer experience"],
   stack:       ["TypeScript", "React/Next.js", "Node.js", ".NET", "Python", "Azure", "AWS"],
@@ -225,13 +211,17 @@ const dev = {
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp; Featured Projects
 
+<!--
+  Replace PROJECT_ONE / PROJECT_TWO / etc. with your actual repository names.
+  These cards auto-fetch real description, stars, language, and forks from each repo.
+-->
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<!-- PROJECT 1 — replace repo/user names -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
+<a href="https://github.com/mpdhanveer05-prakash/PROJECT_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
 <br/>
 <sub>**AI-native SaaS platform.** RAG + agentic workflows over a multi-tenant Next.js + .NET core stack. Ships with Azure infra-as-code and full CI/CD.</sub>
@@ -239,9 +229,8 @@ const dev = {
 </td>
 <td width="50%" valign="top">
 
-<!-- PROJECT 2 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
+<a href="https://github.com/mpdhanveer05-prakash/PROJECT_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
 <br/>
 <sub>**MCP server toolkit.** Production-ready MCP servers exposing internal APIs to LLMs, with auth, rate-limiting, and observability baked in.</sub>
@@ -251,9 +240,8 @@ const dev = {
 <tr>
 <td width="50%" valign="top">
 
-<!-- PROJECT 3 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
+<a href="https://github.com/mpdhanveer05-prakash/PROJECT_THREE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
 <br/>
 <sub>**Cross-platform mobile app.** Expo + React Native, Firebase auth, offline-first sync, and AI-assisted user flows.</sub>
@@ -261,9 +249,8 @@ const dev = {
 </td>
 <td width="50%" valign="top">
 
-<!-- PROJECT 4 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
+<a href="https://github.com/mpdhanveer05-prakash/PROJECT_FOUR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
 <br/>
 <sub>**DevOps automation platform.** GitHub Actions + Azure DevOps pipelines, Dockerized microservices on Kubernetes, infra-as-code.</sub>
@@ -313,13 +300,13 @@ const dev = {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=06B6D4" />
+<a href="https://github.com/mpdhanveer05-prakash">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mpdhanveer05-prakash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mpdhanveer05-prakash&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=06B6D4" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=12" />
+<a href="https://github.com/mpdhanveer05-prakash">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdhanveer05-prakash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=12" />
 </a>
 
 </div>
@@ -328,8 +315,7 @@ const dev = {
 
 <div align="center">
 
-<!-- Activity graph (auto-updates) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=F59E0B&hide_border=true&area=true" alt="activity graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mpdhanveer05-prakash&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=F59E0B&hide_border=true&area=true" alt="activity graph" width="98%" />
 
 </div>
 
@@ -342,7 +328,7 @@ const dev = {
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mpdhanveer05-prakash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="trophies" />
 </a>
 
 </div>
@@ -354,17 +340,16 @@ const dev = {
 ## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28"/> &nbsp; Contribution Snake
 
 <!--
-  Setup: create a GitHub Action at .github/workflows/snake.yml that uses
-  Platane/snk to generate the SVGs into the `output` branch.
-  The image below points to that branch — replace `YOUR_GITHUB_USERNAME`.
+  Setup: create a GitHub Action at .github/workflows/snake.yml using Platane/snk.
+  The image below will work once that workflow has run at least once.
 -->
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mpdhanveer05-prakash/mpdhanveer05-prakash/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mpdhanveer05-prakash/mpdhanveer05-prakash/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/mpdhanveer05-prakash/mpdhanveer05-prakash/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -407,33 +392,6 @@ later:
 
 ---
 
-<!-- ═══════════════════════════ CODING VIBES ═══════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"/> &nbsp; Coding Vibes
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎧 Now Playing
-<!-- Replace USERNAME with your Spotify username if you set up novatorem -->
-<a href="https://open.spotify.com/user/SPOTIFY_USERNAME">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USERNAME&count=5&unique=true" alt="spotify" width="100%" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⏱️ WakaTime Weekly
-<!-- Connect WakaTime → GitHub for live stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" alt="wakatime" />
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- ═══════════════════════════ QUOTE / PHILOSOPHY ═══════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"/> &nbsp; Philosophy
@@ -444,58 +402,26 @@ later:
 
 <br/><br/>
 
-> ### *“The best code is invisible. The best systems are inevitable.*
-> ### *Build for the user. Ship for production. Automate everything else.”*
+> ### *"The best code is invisible. The best systems are inevitable.*
+> ### *Build for the user. Ship for production. Automate everything else."*
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════ LATEST BLOG / ARTICLES ═══════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp; Latest Writing
-
-<!--
-  If you publish on dev.to or Medium, you can wire this up to auto-update with
-  the gautamkrishnar/blog-post-workflow GitHub Action.
-  Below are placeholder cards — replace once your action populates them.
--->
-
-- 📝 [Building Production AI Agents with MCP Servers](#)
-- 📝 [Type-Safe RAG Pipelines in Next.js + .NET](#)
-- 📝 [The CI/CD Playbook I Wish I Had Years Ago](#)
-- 📝 [Designing Multi-Tenant SaaS on Azure](#)
-
-<sub>*Articles update automatically once `blog-post-workflow` is configured.*</sub>
-
----
-
-<!-- ═══════════════════════════ ACHIEVEMENTS / HOLOPIN ═══════════════════════════ -->
-
-<details>
-<summary>🏅 <b>Achievements & Badges (Holopin)</b></summary>
-
-<br/>
-
-<div align="center">
-
-<!-- Replace ID with your Holopin board ID -->
-<a href="https://holopin.io/@YOUR_HOLOPIN_USERNAME">
-  <img src="https://holopin.me/YOUR_HOLOPIN_USERNAME" alt="holopin board" />
-</a>
-
-</div>
-
-</details>
+<!-- ═══════════════════════════ ACHIEVEMENTS / EASTER EGGS ═══════════════════════════ -->
 
 <details>
 <summary>📊 <b>GitHub Metrics (advanced)</b></summary>
 
 <br/>
 
-<!-- Generated by the lowlighter/metrics GitHub Action — set up a workflow to commit metrics.svg -->
+<!--
+  To enable: set up the lowlighter/metrics GitHub Action — it will commit
+  a github-metrics.svg file to this repo. See the setup guide for full steps.
+-->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/github-metrics.svg" alt="metrics" />
+  <img src="https://raw.githubusercontent.com/mpdhanveer05-prakash/mpdhanveer05-prakash/main/github-metrics.svg" alt="metrics" />
 </div>
 
 </details>
@@ -519,26 +445,6 @@ $ whoami
 
 ---
 
-<!-- ═══════════════════════════ SUPPORT ═══════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hpXFt8FpqHmnu/giphy.gif" width="28"/> &nbsp; Support My Work
-
-<div align="center">
-
-<a href="https://buymeacoffee.com/YOUR_BMC_USERNAME">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="buy me a coffee" />
-</a>
-<a href="https://github.com/sponsors/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="github sponsors" />
-</a>
-<a href="https://ko-fi.com/YOUR_KOFI_USERNAME">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="ko-fi" />
-</a>
-
-</div>
-
----
-
 <!-- ═══════════════════════════ LET'S CONNECT (footer social) ═══════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/> &nbsp; Let's Connect
@@ -549,7 +455,6 @@ $ whoami
 
 <br/>
 
-<!-- SOCIAL FOOTER CLUSTER — every badge is a live anchor -->
 <a href="https://www.linkedin.com/in/mpdhanveerprakash/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
 </a>
@@ -568,39 +473,21 @@ $ whoami
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/mpdhanveer05-prakash" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@YOUR_YOUTUBE" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube" />
+<a href="mailto:aiwithshanveer@gmail.com">
+  <img src="https://img.shields.io/badge/Work_Email-34A853?style=for-the-badge&logo=gmail&logoColor=white&labelColor=34A853" alt="Work Email" />
 </a>
 &nbsp;
-<a href="https://dev.to/YOUR_DEVTO" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to" />
-</a>
-&nbsp;
-<a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
-</a>
-
-<br/>
-
-<a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:you@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+<a href="mailto:mpdhanveer05@gmail.com">
+  <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Personal Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Visitors&color=8B5CF6&style=for-the-badge" alt="visitor counter" />
+<img src="https://komarev.com/ghpvc/?username=mpdhanveer05-prakash&label=Profile+Visitors&color=8B5CF6&style=for-the-badge" alt="visitor counter" />
 
 </div>
 
@@ -614,12 +501,7 @@ $ whoami
 
 <sub>⚡ <i>Crafted with caffeine, curiosity, and a healthy obsession with shipping.</i> ⚡</sub>
 
-</div>
+<br/>
+<sub><b>M.P. Dhanveer Prakash</b> • Software Engineer • AI Automation • Cloud</sub>
 
-<!--
-══════════════════════════════════════════════════════════════════════════════
-  END OF README
-  ═════════════
-  Banner & design notes are in the chat — palette, fonts, and asset tools.
-  ══════════════════════════════════════════════════════════════════════════════
--->
+</div>
