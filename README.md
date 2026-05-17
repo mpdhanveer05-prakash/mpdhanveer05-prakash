@@ -12,11 +12,11 @@
 <div align="center">
 
 <a href="https://github.com/mpdhanveer05-prakash">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=M.P.%20DHANVEER%20PRAKASH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" alt="hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=280&section=header&text=M.P.%20DHANVEER%20PRAKASH&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Cloud&descAlignY=62&descSize=20&animation=twinkling" alt="hero banner" />
 </a>
 
 <a href="https://github.com/mpdhanveer05-prakash">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&width=820&height=55&lines=Architecting+Software+at+the+Edge+of+AI;Full-Stack+Engineer+%E2%9A%A1+DevOps+%E2%9A%A1+AI+Automation;Shipping+Production+Systems+%26+Intelligent+Agents;Cloud-Native+%E2%80%A2+Type-Safe+%E2%80%A2+AI-First" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=850&height=60&lines=>>>+Architecting+Software+at+the+Edge+of+AI+<<<;>>>+Full-Stack+Engineer+%E2%9A%A1+DevOps+%E2%9A%A1+AI+Automation+<<<;>>>+Shipping+Production+Systems+%26+Intelligent+Agents+<<<;>>>+Building+the+Future+with+Code+%26+Caffeine+<<<" alt="typing intro" />
 </a>
 
 <br/>
@@ -212,85 +212,53 @@ const dhanveer = {
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp; Featured Projects
 
 <!--
-  IMAGE PLACEHOLDERS:
-  Each project has a banner image slot above its pin card. To swap in your own:
-    1. Add a screenshot/banner to the repo at /assets/banner.png
-    2. Replace the placeholder image URL with:
-       https://raw.githubusercontent.com/mpdhanveer05-prakash/<REPO_NAME>/main/assets/banner.png
-    OR upload to https://imgur.com and paste the direct .png URL.
-  Recommended banner size: 1280x400 (or any 16:5 ratio) for clean rendering.
+  Replace PROJECT_ONE / PROJECT_TWO / etc. with your actual repository names.
+  These cards auto-fetch real description, stars, language, and forks from each repo.
 -->
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<!-- ─── Project 1: Yatra360 ─── -->
-<a href="https://github.com/mpdhanveer05-prakash/Yatra360-Full-Stack-VR-tourism-platform">
-  <img src="https://placehold.co/600x300/0F0C29/8B5CF6/png?text=Yatra360+%E2%80%A2+VR+Tourism" alt="Yatra360 banner" width="100%" />
+<a href="https://github.com/mpdhanveer05-prakash/PROJECT_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
-
-<a href="https://github.com/mpdhanveer05-prakash/Yatra360-Full-Stack-VR-tourism-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=Yatra360-Full-Stack-VR-tourism-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
-</a>
-
-<sub>**🌐 Yatra360 — Full-Stack VR Tourism Platform**</sub><br/>
-<sub>Immersive VR-powered tourism experience with full-stack architecture. Lets users explore destinations through 360° virtual tours before booking — built end-to-end.</sub>
-<p>
-  <img src="https://img.shields.io/badge/Full_Stack-8B5CF6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/VR-06B6D4?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tourism-F59E0B?style=flat-square&logoColor=white" />
-</p>
+<br/>
+<sub>**AI-native SaaS platform.** RAG + agentic workflows over a multi-tenant Next.js + .NET core stack. Ships with Azure infra-as-code and full CI/CD.</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<!-- ─── Project 2: Clinic Management ─── -->
-<a href="https://github.com/mpdhanveer05-prakash/Clinic-Management">
-  <img src="https://placehold.co/600x300/0F0C29/06B6D4/png?text=Clinic+Management+System" alt="Clinic Management banner" width="100%" />
+<a href="https://github.com/mpdhanveer05-prakash/PROJECT_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
-
-<a href="https://github.com/mpdhanveer05-prakash/Clinic-Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=Clinic-Management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
-</a>
-
-<sub>**🏥 Clinic Management System**</sub><br/>
-<sub>End-to-end clinic operations platform — patient records, appointments, prescriptions, and billing. Designed for real-world healthcare workflows with role-based access.</sub>
-<p>
-  <img src="https://img.shields.io/badge/Healthcare-EC4899?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-22D3EE?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Role-7C3AED?style=flat-square&logoColor=white" />
-</p>
+<br/>
+<sub>**MCP server toolkit.** Production-ready MCP servers exposing internal APIs to LLMs, with auth, rate-limiting, and observability baked in.</sub>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ─── Project 3: Sales Call Analyser ─── -->
-<a href="https://github.com/mpdhanveer05-prakash/Sales-Call-Analyser-AI-ML-">
-  <img src="https://placehold.co/600x300/0F0C29/EC4899/png?text=Sales+Call+Analyser+%E2%80%A2+AI%2FML" alt="Sales Call Analyser banner" width="100%" />
+<a href="https://github.com/mpdhanveer05-prakash/PROJECT_THREE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
+<br/>
+<sub>**Cross-platform mobile app.** Expo + React Native, Firebase auth, offline-first sync, and AI-assisted user flows.</sub>
 
-<a href="https://github.com/mpdhanveer05-prakash/Sales-Call-Analyser-AI-ML-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=Sales-Call-Analyser-AI-ML-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mpdhanveer05-prakash/PROJECT_FOUR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mpdhanveer05-prakash&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
-
-<sub>**🧠 Sales Call Analyser (AI/ML)**</sub><br/>
-<sub>AI-powered sales call intelligence — transcription, sentiment analysis, key-moment detection, and actionable insights. Built with modern ML pipelines for real revenue ops.</sub>
-<p>
-  <img src="https://img.shields.io/badge/AI%2FML-412991?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analytics-22c55e?style=flat-square&logoColor=white" />
-</p>
+<br/>
+<sub>**DevOps automation platform.** GitHub Actions + Azure DevOps pipelines, Dockerized microservices on Kubernetes, infra-as-code.</sub>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/mpdhanveer05-prakash?tab=repositories">
-    <img src="https://img.shields.io/badge/%E2%86%92%20Explore%20All%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6&labelColor=0D1117" alt="all repos" />
-  </a>
-</div>
 ---
 
 <!-- ═══════════════════════════ DEVOPS + AI AUTOMATION ═══════════════════════════ -->
@@ -529,8 +497,13 @@ $ whoami
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&height=40&lines=>>>+END_OF_TRANSMISSION+<<<;>>>+SYSTEM_GOING_OFFLINE+<<<;>>>+THANKS_FOR_VISITING+<<<" alt="footer typing" />
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=140&section=footer&text=>>>%20SYSTEM_STANDBY%20<<<&fontSize=26&fontColor=ffffff&fontAlignY=50&desc=Thanks%20for%20visiting%20my%20digital%20workspace&descAlignY=70&descSize=16&animation=twinkling" alt="futuristic footer" />
+
+<br/><br/>
 <sub>⚡ <i>Crafted with caffeine, curiosity, and a healthy obsession with shipping.</i> ⚡</sub>
 
 <br/>
